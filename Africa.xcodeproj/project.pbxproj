@@ -47,6 +47,7 @@
 		24C3CECD27F303CE00F44EEE /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C3CECC27F303CE00F44EEE /* LocationModel.swift */; };
 		24C3CECF27F319A900F44EEE /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C3CECE27F319A900F44EEE /* MapAnnotationView.swift */; };
 		24C3CED127F31CCF00F44EEE /* MotionAnnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C3CED027F31CCF00F44EEE /* MotionAnnimationView.swift */; };
+		24C3CED327F3953500F44EEE /* AnimalGriditemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C3CED227F3953500F44EEE /* AnimalGriditemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +93,7 @@
 		24C3CECC27F303CE00F44EEE /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		24C3CECE27F319A900F44EEE /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		24C3CED027F31CCF00F44EEE /* MotionAnnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnnimationView.swift; sourceTree = "<group>"; };
+		24C3CED227F3953500F44EEE /* AnimalGriditemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGriditemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				24C3CEC727F269B300F44EEE /* VideoPlayerView.swift */,
 				24C3CECE27F319A900F44EEE /* MapAnnotationView.swift */,
 				24C3CED027F31CCF00F44EEE /* MotionAnnimationView.swift */,
+				24C3CED227F3953500F44EEE /* AnimalGriditemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 				24C3CEA727F1022F00F44EEE /* GalleryView.swift in Sources */,
 				24C3CECD27F303CE00F44EEE /* LocationModel.swift in Sources */,
 				24C3CEBC27F208CF00F44EEE /* InsetGalleryView.swift in Sources */,
+				24C3CED327F3953500F44EEE /* AnimalGriditemView.swift in Sources */,
 				24C3CEC627F254B600F44EEE /* VideoListItemView.swift in Sources */,
 				24C3CED127F31CCF00F44EEE /* MotionAnnimationView.swift in Sources */,
 				24C3CEB227F1294100F44EEE /* CodableBundleExtension.swift in Sources */,
